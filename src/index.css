@@ -1,0 +1,37 @@
+body {
+background-color: #f2f2f2;
+font-family: system-ui;
+}
+.banner{
+ background-image: url("./Image/12237975_939758.png");
+ height: 550px;
+ width: 100%;
+ background-repeat: no-repeat;
+background-size: 100% 100%;
+ background-blend-mode: soft-light;
+  background-color: #2d2a2a;
+   
+}
+.div-position{
+    position: relative;
+    margin-bottom: 282px;
+}
+
+.abouts-main-div{
+    position: absolute;
+    top: 426px;
+    left: 9%;
+    max-width: 80%;
+}
+.ant-switch {
+    margin-left: 24px
+}
+
+.darkmodeA {
+    background-color: #160f0f;
+    font-family: system-ui;
+}
+.lightmodeA {
+    background-color: #ffffff;
+    font-family: system-ui;
+}

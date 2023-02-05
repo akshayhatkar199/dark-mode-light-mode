@@ -1,0 +1,150 @@
+.header-Sanstha{
+    color: red;
+}
+.Academics-header{
+    margin-top: -17px;
+    font-size: xx-large;
+    font-weight: 900;
+    font-family: system-ui;
+}
+.Academics-div{
+    text-align: center
+}
+.Academics-header-hr{
+    margin-right: 36%;
+    margin-left: 33%;
+    border: 2px solid red;
+    margin-top: -19px;
+}
+.Academics-main-div{
+    background-color: white;
+    width: 203px;
+
+}
+.bg-dark{
+    background-color: #160f0f;
+    color: white;
+}
+.div-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+.card-Academics{
+    margin: 17px;
+}
+.card-ace-img{
+  width: 100%!important;
+  height: auto;
+}
+.card-Academics .ant-card-cover{
+    padding: 10px;
+}
+.Academics-LEARN-button{
+    color: white;
+    background-color:  #f20000;
+    font-size: 12px;
+}
+.center-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 12px;
+}
+.full-cover-image{
+    width: 100%;
+    height: auto;
+    /* background-image: linear-gradient(to black),url("../../Image/welcome-bg-mdpi.png"); */
+    /* background-blend-mode: screen; */
+   /* background-image: url("../../Image/welcome-bg-mdpi.png"),; */
+    background-color: #262424 !important;
+    background-image: url("../../Image/welcome-bg-mdpi.png");
+    background-blend-mode: soft-light;
+    background-repeat: no-repeat;
+    background-size: 100% 100% !important;
+}
+.number-Academics{
+    text-align: center;
+    font-size: 21px;
+    color: yellow;
+}
+.number-Academics h1{
+    margin-bottom: 0px;
+}
+.number-Academics h5{
+    margin-top: 1px;
+}
+.number-Academics{
+    padding-top: 67px;
+    padding-bottom: 67px;
+}
+
+
+
+
+/* < 445px */
+/* @media only screen and (max-width: 445px){
+    
+ 
+ } */
+/* < 320 px */
+/* @media only screen and (max-width: 320px){
+    .Academics-main-div{
+    margin-top: 198%;
+    }
+ } */
+
+
+ /* > 375 px */
+/* @media only screen and (min-width: 375px){
+    .Academics-main-div{
+    margin-top: 145%;
+    }
+ } */
+
+/* >425 px */
+/* @media only screen and (min-width: 425px){
+    .Academics-main-div{
+    margin-top: 112%;
+}
+} */
+
+/* < 576 px */
+/* @media only screen and (max-width: 576px){
+   
+       
+} */
+/* > 576 px */
+/* @media only screen and (min-width: 576px){
+   
+   
+} */
+/* > 768 px */
+/* @media only screen and (min-width: 768px){
+
+    .Academics-main-div{
+        margin-top: 35%;
+    }
+   
+} */
+/* > 992 px */
+/* @media only screen and (min-width: 992px){
+  
+   
+
+} */
+/* > 1024 px */
+/* @media only screen and (min-width: 1024px){
+    .Academics-main-div{
+        margin-top: 8%;
+    }
+    
+} */
+/* > 1400 px */
+/* @media only screen and (min-width: 1400px){
+    .Academics-main-div{
+    margin-top: -1%;
+}  
+} */

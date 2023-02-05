@@ -1,0 +1,68 @@
+.header-Sanstha{
+    color: red;
+}
+.FutureProjects-header{
+    margin-top: -17px;
+    font-size: xx-large;
+    font-weight: 900;
+    font-family: system-ui;
+}
+.FutureProjects-div{
+    text-align: center
+}
+.FutureProjects-header-hr{
+    margin-right: 36%;
+    margin-left: 33%;
+    border: 2px solid red;
+    margin-top: -19px;
+}
+.FutureProjects-main-div{
+    background-color: white;
+    width: 262px;
+
+}
+.div-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+.card-FutureProjects{
+    margin: 17px;
+}
+.card-ace-img{
+  width: 100%!important;
+  height: auto;
+}
+.card-FutureProjects .ant-card-cover{
+    padding: 10px;
+}
+.FutureProjects-LEARN-button{
+    color: white;
+    background-color:  #f20000;
+    font-size: 12px;
+}
+.center-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 12px;
+}
+.full-cover-image{
+    width: 100%;
+    height: auto;
+    /* background-image: linear-gradient(to black),url("../../Image/welcome-bg-mdpi.png"); */
+    /* background-blend-mode: screen; */
+   /* background-image: url("../../Image/welcome-bg-mdpi.png"),; */
+    background-color: #100e0e;
+    background-image: url("../../Image/welcome-bg-mdpi.png");
+    background-blend-mode: soft-light;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-dark{
+    background-color: #160f0f;
+    color: white;
+}

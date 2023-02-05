@@ -1,0 +1,77 @@
+.card-Achievements .ant-card-cover{
+    padding: 20px;
+}
+.header-Sanstha{
+    color: red;
+    text-align: center
+}
+.Achievements-header{
+    margin-top: -17px;
+    font-size: xx-large;
+    font-weight: 900;
+    font-family: system-ui;
+}
+.Achievements-div{
+    text-align: center
+}
+.Achievements-header-hr{
+    margin-right: 36%;
+    margin-left: 33%;
+    border: 2px solid red;
+    margin-top: -19px;
+}
+.Achievements-main-div{
+    background-color: white;
+    width: 203px;
+
+}
+.div-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+.card-Achievements{
+    margin: 17px;
+}
+.card-ace-img{
+  width: 100%!important;
+  height: auto;
+}
+.card-Achievements .ant-card-cover{
+    padding: 10px;
+}
+.Achievements-LEARN-button{
+    color: white;
+    background-color:  #f20000;
+    font-size: 12px;
+}
+.center-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 12px;
+}
+.full-cover-image{
+    width: 100%;
+    height: auto;
+    background-color: #100e0e;
+    background-image: url("../../Image/welcome-bg-mdpi.png");
+    background-blend-mode: soft-light;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ant-card-meta-title{
+    text-align: center;
+}
+
+.Achievements-div{
+    background-color: white;
+    width: 260px;
+    height: 87px;
+}
+.bg-dark{
+    background-color: #160f0f;
+    color: white;
+}
